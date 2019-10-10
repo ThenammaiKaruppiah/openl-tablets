@@ -1,0 +1,7 @@
+com\baeldung\openltablets\rules\RiskResult.class
+com\baeldung\openltablets\rules\IRule.class
+com\baeldung\openltablets\model\Case.class
+com\baeldung\openltablets\model\User.class
+com\baeldung\openltablets\model\Greeting.class
+com\baeldung\openltablets\rules\Main.class
+com\baeldung\openltablets\rules\Response.class
